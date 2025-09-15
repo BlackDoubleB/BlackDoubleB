@@ -6,7 +6,7 @@ Soy estudiante de la carrera de **Ingeniería de Software**, actualmente me encu
 Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trabajo como **desarrolladora de software independiente**.  
 Me apasiona aprender y crear soluciones.  
 
-📫 Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com</a>  
+Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com</a>  
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 
