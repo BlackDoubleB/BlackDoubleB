@@ -48,7 +48,7 @@ Me apasiona aprender y crear soluciones.
 <h2>Estadísticas de GitHub:</h2>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackDoubleB&show_icons=true&theme=tokyonight&locale=es" height="150"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=BlackDoubleB&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20Reyna" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackDoubleB&theme=material-palenight" height="150"/>
 </div>
 
