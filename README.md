@@ -10,11 +10,9 @@ Me apasiona aprender y crear soluciones.
 
 📫 Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com</a>  
 
----
+<h2>Habilidades</h2>
 
-## ⚡ Habilidades  
-
-<h4>Lenguajes</h4>
+<p>Lenguajes</p>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -38,19 +36,19 @@ Me apasiona aprender y crear soluciones.
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </span>  
 
----
-
-## 🌍 Redes y Contacto  
-
+<h4>Redes y Contacto</h4>
 <p>
 <a href="https://github.com/BlackDoubleB" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="http://linkedin.com/in/reyna-blacido-aparicio-a03558290" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:blancablacido@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
 
-<h2>📊 Estadísticas de GitHub:</h2>  
 
-[![](https://github-readme-stats.vercel.app/api?username=BlackDoubleB&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/BlackDoubleB)  
-[![](https://github-readme-streak-stats.herokuapp.com/?user=BlackDoubleB&theme=material-palenight)](https://github.com/BlackDoubleB)
+<h2>Estadísticas de GitHub:</h2>  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackDoubleB&show_icons=true&theme=tokyonight&locale=es" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackDoubleB&theme=material-palenight" height="150"/>
+</div>
+
