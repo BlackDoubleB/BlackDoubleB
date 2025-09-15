@@ -4,8 +4,6 @@
 <div align="center">
 
 <a href="https://github.com/CtorW">
-<img src="https://res.cloudinary.com/doublebl/image/upload/v1757898786/fondo_kghvg2.gif" />
-<img src="https://res.cloudinary.com/doublebl/image/upload/v1757898786/fondo_kghvg2.gif" width="100%" />
 </a>
 <div align="center">
   <img src="https://res.cloudinary.com/doublebl/image/upload/v1757898786/fondo_kghvg2.gif" width="100%" />
