@@ -1,3 +1,6 @@
+<h1>Welcome!</h1>
+
+<h3><b>About me</b></h3>
 <div align="Center">
 <img width="100" high="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 
