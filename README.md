@@ -5,6 +5,7 @@
 
 <a href="https://github.com/CtorW">
 <img src="https://res.cloudinary.com/doublebl/image/upload/v1757898786/fondo_kghvg2.gif" />
+<img src="https://res.cloudinary.com/doublebl/image/upload/v1757898786/fondo_kghvg2.gif" width="100%" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
