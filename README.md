@@ -14,9 +14,9 @@ Algunas cosas en las que creo:
 
 </p>
 <p align="justify">
-  - Nunca se deja de aprender.
-- Compartir conocimiento multiplica el valor.
-- La curiosidad es el mejor motor para crecer.
+- Nunca se deja de aprender.<br/>
+- Compartir conocimiento multiplica el valor.<br/>
+- La curiosidad es el mejor motor para crecer.<br/>
 </p>
 
 <div align="Center">
