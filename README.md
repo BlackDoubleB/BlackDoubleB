@@ -5,8 +5,8 @@
 
 <div align="center">
 
-<p>
-Soy Blanca, programadora en constante aprendizaje y curiosa por naturaleza. Me gusta explorar nuevas ideas, experimentar con proyectos y transformar lo que aprendo en algo práctico. No me defino por una sola etiqueta: disfruto tanto del proceso de resolver problemas como de la satisfacción de ver una idea hecha realidad.
+<p align="justify">
+Soy Reyna, programadora en constante aprendizaje y curiosa por naturaleza. Me gusta explorar nuevas ideas, experimentar con proyectos y transformar lo que aprendo en algo práctico. No me defino por una sola etiqueta: disfruto tanto del proceso de resolver problemas como de la satisfacción de ver una idea hecha realidad.
 
 Creo que la programación es más que código: es creatividad, disciplina y colaboración. Valoro la simplicidad en las soluciones, la claridad en la comunicación y la constancia en el aprendizaje.
 
