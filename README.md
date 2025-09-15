@@ -1,6 +1,6 @@
 <h1>Bienvenidos!</h1>
 
-<h3><b>About me</b></h3>
+<h3><b>Sobre mí</b></h3>
 <div align="Center">
 
 <div align="center">
@@ -12,11 +12,12 @@ Creo que la programación es más que código: es creatividad, disciplina y cola
 
 Algunas cosas en las que creo:
 
-- Nunca se deja de aprender.
+</p>
+<p align="justify">
+  - Nunca se deja de aprender.
 - Compartir conocimiento multiplica el valor.
 - La curiosidad es el mejor motor para crecer.
 </p>
-
 
 <div align="Center">
 <h1>Skills</h1>
