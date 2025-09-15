@@ -1,15 +1,23 @@
-<h1>Welcome!</h1>
+<h1>Bienvenidos!</h1>
 
 <h3><b>About me</b></h3>
 <div align="Center">
 
 <div align="center">
 
+<p>
+Soy Blanca, programadora en constante aprendizaje y curiosa por naturaleza. Me gusta explorar nuevas ideas, experimentar con proyectos y transformar lo que aprendo en algo práctico. No me defino por una sola etiqueta: disfruto tanto del proceso de resolver problemas como de la satisfacción de ver una idea hecha realidad.
 
+Creo que la programación es más que código: es creatividad, disciplina y colaboración. Valoro la simplicidad en las soluciones, la claridad en la comunicación y la constancia en el aprendizaje.
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+Algunas cosas en las que creo:
 
-💻 Passionately building an **Arch Installer** project. 
+Nunca se deja de aprender.
+
+Compartir conocimiento multiplica el valor.
+
+La curiosidad es el mejor motor para crecer."
+</p>
 
 
 <div align="Center">
