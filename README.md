@@ -8,7 +8,7 @@ Me apasiona aprender y crear soluciones.
 
 📫 Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com</a>  
 
-<h2>Habilidades</h2>
+<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 
 <p>Lenguajes</p>
 <span> 
@@ -43,7 +43,7 @@ Me apasiona aprender y crear soluciones.
 
 
 
-<h2>Estadísticas de GitHub:</h2>  
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Estadísticas de GitHub:</h2>  
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=BlackDoubleB&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20Reyna" height="150"/>
