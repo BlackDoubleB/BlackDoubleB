@@ -12,9 +12,9 @@ Creo que la programación es más que código: es creatividad, disciplina y cola
 
 Algunas cosas en las que creo:
 
-Nunca se deja de aprender.
-Compartir conocimiento multiplica el valor.
-La curiosidad es el mejor motor para crecer.
+- Nunca se deja de aprender.
+- Compartir conocimiento multiplica el valor.
+- La curiosidad es el mejor motor para crecer.
 </p>
 
 
