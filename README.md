@@ -1,7 +1,6 @@
 <h1 align="center"><b>Hola , Soy Reyna Blacido </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
 Soy estudiante de la carrera de **Ingeniería de Software**, actualmente me encuentro a mitad de mis estudios.  
 Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trabajo como **desarrolladora de software independiente**.  
