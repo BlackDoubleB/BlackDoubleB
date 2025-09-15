@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f](https://res.cloudinary.com/doublebl/image/upload/v1757898786/fondo_kghvg2.gif" />
+<img src="https://res.cloudinary.com/doublebl/image/upload/v1757898786/fondo_kghvg2.gif" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
