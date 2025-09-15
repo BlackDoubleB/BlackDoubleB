@@ -5,7 +5,7 @@
 
 <a href="https://github.com/CtorW">
 </a>
-<img width="100"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Fvectores-gratis%2Ffondos-de-pantalla&psig=AOvVaw3utiEYDiJvuVRR36wWMo2v&ust=1757985407683000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDarY_M2Y8DFQAAAAAdAAAAABAE"/>
+<img width="100"  src="https://marketplace.canva.com/EAFcLpiTbQU/2/0/1600w/canva-fondo-de-pantalla-abstracto-formas-org%C3%A1nicas-rosado-C4V5tMB1ipI.jpg"/>
 <div align="center">
   <img src="https://res.cloudinary.com/doublebl/image/upload/v1757898786/fondo_kghvg2.gif" width="100%" />
 </div>
