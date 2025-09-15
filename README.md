@@ -5,7 +5,7 @@
 
 <a href="https://github.com/CtorW">
 </a>
-<img width="100"   src="https://i.pinimg.com/originals/0c/bf/2f/0cbf2f5c3fb37d033c0bc791ae196dbb.gif"/>
+<img width="100" height="100"  src="https://i.pinimg.com/originals/0c/bf/2f/0cbf2f5c3fb37d033c0bc791ae196dbb.gif"/>
 <div align="center">
   <img src="https://res.cloudinary.com/doublebl/image/upload/v1757898786/fondo_kghvg2.gif" width="100%" />
 </div>
