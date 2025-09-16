@@ -3,7 +3,7 @@
 
 
 Soy estudiante de la carrera de **Ingeniería de Software**, actualmente me encuentro a mitad de mis estudios.  
-Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trab``ajo como **desarrolladora de software independiente**.  
+Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trabajo como **desarrolladora de software independiente**.  
 Me apasiona aprender y crear soluciones.  
 
 Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com</a>  
