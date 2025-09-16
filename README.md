@@ -52,3 +52,6 @@ Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com
 
 </div>
 
+------
+Credit : BlackDoubleB https://github.com/BlackDoubleB
+Last Edited on: 15/09/2025
