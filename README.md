@@ -3,10 +3,31 @@
 
 
 Soy estudiante de la carrera de **Ingeniería de Software**, actualmente me encuentro a mitad de mis estudios.  
-Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trabajo como **desarrolladora de software independiente**.  
+Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trab``ajo como **desarrolladora de software independiente**.  
 Me apasiona aprender y crear soluciones.  
 
 Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com</a>  
+
+<h2>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0cWxnMHdtc2lsYXV5bG9zMmQ5ZHgya3Jrdjc1Zng0a3NlbnRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pGnNhScvs9Udt1WSkA/giphy.gif" width="25px">
+  Estudios
+</h2>
+
+
+
+**Universidad Tecnológica del Perú (UTP)** <br/>
+🎓 Ingeniería de Software<br/>
+📅 2025 – Actualmente <br/>
+⏳ En curso.  
+
+
+
+**Instituto de Investigación y Desarrollo de Administración y Tecnología (IDAT)**<br/>
+🎓 Computación e Informática <br/>
+📅 2022 - 2024 <br/>
+✅ Finalizado. <br/>
+
+
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 
@@ -41,8 +62,6 @@ Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com
 <a href="mailto:blancablacido@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-
-
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Estadísticas de GitHub:</h2>  
 
 <div align="center">
@@ -53,5 +72,6 @@ Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com
 </div>
 
 ------
-Credit : BlackDoubleB https://github.com/BlackDoubleB <br/>
+
+Credits: [BlackDoubleB](https://github.com/BlackDoubleB)<br/>
 Last Edited on: 15/09/2025
