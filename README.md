@@ -59,6 +59,11 @@ Contáctame en :  <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.c
   
 </span>  
 
+<h4>Herramientas de Test</h4>
+<span>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</span>
+
 <h4> Redes y Contacto</h4>
 <p>
 <a href="https://github.com/BlackDoubleB" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
