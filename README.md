@@ -38,6 +38,7 @@ Contáctame en :  <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.c
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white">
+   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=php&logoColor=blue">
 </span>  
 
 <h4>Bases de Datos</h4>
